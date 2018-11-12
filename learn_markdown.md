@@ -17,13 +17,23 @@ This line is only separated by a single newline, so it's a separate line in the 
 Inline `code` has `back-ticks around` it.
 
 ```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
  
 ```python
 s = "Python syntax highlighting"
-print s
+for i,c in enumerate(s):
+    print('i is ', i, 'c is ', c)
+print(s)
 ```
  
 ```
