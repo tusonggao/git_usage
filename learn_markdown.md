@@ -1,18 +1,67 @@
-# 笑傲江湖
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
-[笑傲江湖](www.baidu.com)
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
-* 1: 王选
-* 2：姚期智
-* 3：                       ~~陈景润~~
 
-##第一集
+Inline `code` has `back-ticks around` it.
 
-~~woyebuzhid~~
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
 
-##第二集
+Colons can be used to align columns.
 
-##第三集
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+
+Three or more...
+
+-------
+
+Hyphens
+
+*****
+
+Asterisks
+
+______
+
+Underscores
+
 
 [I'm an inline-style link](https://www.google.com)
 
