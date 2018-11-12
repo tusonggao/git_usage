@@ -94,5 +94,5 @@ Some text to show that the reference links can follow later.
 
 
 <a href="https://www.youtube.com/watch?v=fTUwdXUFfI8&list=PLVgTuDJNbGa1YTEiAg0zGMKAWM9oq6XnP
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://github.com/tusonggao/git_usage/blob/master/pics/youbute_logo.jpg?raw=true" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
