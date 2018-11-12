@@ -20,7 +20,7 @@
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../pics/liuhuchong.jpg)
+[I'm a relative reference to a repository file](./pics/liuhuchong.jpg)
 
 [You can use numbers for reference-style link definitions][1]
 
