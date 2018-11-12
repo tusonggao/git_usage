@@ -6,3 +6,4 @@ Add a new line in hotfix1 branch.
 Add a new line in feature1 branch.
 
 Find a bug, I fixed it. Pls check it.
+I make a new change in this file.
