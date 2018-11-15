@@ -1,41 +1,26 @@
-# 笑傲江湖
-[笑傲江湖](www.baidu.com)
+# HeadTitle
+
+### Blosxom ###
+   
+
+http://github.com - automatic!  
+[GitHub](http://github.com)
+
+As Kanye West said:
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+`<addr>` element here instead.
 
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+First Header | Second Header
+:------------: | :-------------:
+Content from cell 1 | [Content from cell 2](www.baidu.com)
+Content in the first column | Content in the second column
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:   
+Suddenly I found a storm. :zap:
 
-Alt-H1
-======
-
-Alt-H2
-------
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+:relaxed:

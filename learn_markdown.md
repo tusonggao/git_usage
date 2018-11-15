@@ -1,3 +1,18 @@
+
+```
+optional arguments:
+  -h, --help            show this help message and exit
+  --embedding_dim EMBEDDING_DIM
+                        Dimensionality of character embedding (default: 128)
+  --filter_sizes FILTER_SIZES
+                        Comma-separated filter sizes (default: '3,4,5')
+  --num_filters NUM_FILTERS
+                        Number of filters per filter size (default: 128)
+  --l2_reg_lambda L2_REG_LAMBDA
+```
+
+
+
 Here's a line for us to start with.
 
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
